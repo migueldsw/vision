@@ -1,0 +1,33 @@
+{
+    "age":[
+        "young",
+        "mid aged",
+        "adult",
+        "aged"
+    ],
+    "who":[
+        "man.",
+        "woman."
+    ],
+
+    "skin and body traits":[
+        "with white skin and body traits.",
+        "with latin-american skin and body traits.",
+        "with black skin and body traits.",
+        "with asian skin and body traits."
+    ],
+
+    "smile":[
+        "Smiling photo.",
+        "Serious photo"
+    ],
+
+    "picture_style":[
+        "focus on face image. Face image portrait."
+    ],
+    "image_setup":[
+        "//digital art cartoon style image, comics art style image, professional digital art. best quality, high resolution, professional ultra-detailed image, 4k, detailed background, in-frame. Digital art image.",
+        "ultra realistic close up portrait, real world. best quality, high resolution, professional photoshoot image, ultra-detailed image, 4k, detailed background, in-frame. Realistic image."
+    ],
+    "//notes on skin and body traits": "https://www.mdpi.com/2079-9284/8/3/81 , https://en.wikipedia.org/wiki/Race_(human_categorization), "
+}
